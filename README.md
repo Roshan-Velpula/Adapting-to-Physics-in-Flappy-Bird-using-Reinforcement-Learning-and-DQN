@@ -48,6 +48,12 @@ To modify the physics flag in the test mode, adjust the physics flag to True (fo
 - Numpy - For numerical computations.
 - Matplotlib - For plotting results.
 
+### Authors
+
+- Sakshi Singh
+- Mariana Jimenez Vega
+- Roshan Velpula
+
 ### References
 
 - https://github.com/sourabhv/FlapPyBird
